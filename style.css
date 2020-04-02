@@ -1,0 +1,17 @@
+
+.calcs {
+    height: 100%;
+    border: 1px solid;
+    border-color: blue;
+    font-size: 3.1em;
+    padding: 0 10px;
+    margin-bottom: 5px;
+}
+.btn {
+    margin-top: 20px;
+    margin-right: 20px;
+    font-size: 34px;
+    align-items: center;
+    padding: 20px;
+    width: 200px;
+}
